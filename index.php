@@ -109,11 +109,11 @@
                                 <h4 style="text-align: center;">Contato</h4>
                                 <form action="" class="contato" style="display: flex;flex-direction: column;align-items: center;" method="post">
                                     <div class="dados" style="width: 80%; text-align:center; margin-bottom:20px">
-                                    <input type="text" placeholder="NOME">
-                                    <input type="text" placeholder="EMAIL">
+                                    <input type="text" placeholder="NOME" style="border-radius: 6px;">
+                                    <input type="text" placeholder="EMAIL" style="border-radius: 6px;">
                                     </div>
-                                    <textarea name="" class="men" id="" cols="30" rows="10" placeholder="MENSAGEM"></textarea>
-                                    <button style="background: #90ba92;margin-top: 10px;width: 77px;height: 40px;margin-bottom: 50px;">Enviar</button>
+                                    <textarea name="" class="men" id="" cols="30" rows="10" placeholder="MENSAGEM" style="border-radius: 6px;"></textarea>
+                                    <button style="background: #90ba92;margin-top: 10px;width: 77px;height: 40px;margin-bottom: 50px; border-radius: 6px;">Enviar</button>
                                 </form>
                                 <div class="clear"></div>
                             </div>
