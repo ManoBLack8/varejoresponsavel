@@ -31,7 +31,7 @@
 
                                 </div>
                                 <section id="content-section-2">
-                        <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-brown-column-service" style="background-color: #2d2418;  border-top: 5px solid #3f3221; padding-top: 0px; padding-bottom: 0px; ">
+                        <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-brown-column-service" style="background-color: #253526;  border-top: 5px solid #3f3221; padding-top: 0px; padding-bottom: 0px; ">
                             <div class="container">
                                 <div class="four columns">
                                     <div class="greennature-ux column-service-ux">
@@ -104,7 +104,7 @@
 
                                 </div>
                                 <section id="content-section-2">
-                        <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-brown-column-service" style="background-color: #2d2418;  border-top: 5px solid #3f3221; padding-top: 0px; padding-bottom: 0px; ">
+                        <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-brown-column-service" style="background-color: #253526;  border-top: 5px solid #3f3221; padding-top: 0px; padding-bottom: 0px; ">
                             <div class="container">
                                 <h4 style="text-align: center;">Contato</h4>
                                 <form action="" class="contato" style="display: flex;flex-direction: column;align-items: center;" method="post">
