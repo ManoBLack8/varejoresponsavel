@@ -65,11 +65,12 @@
                                                 <h3 class="column-service-title">Nossos Valores</h3>
                                                 <div class="column-service-content greennature-skin-content">
                                                     <p>Nossos Valores são:<br> 
-Sustentabilidade, 
-Economicidade, 
-Consciência, 
-Respeito, 
-Qualidade</p>
+                                                        Sustentabilidade, 
+                                                        Economicidade, 
+                                                        Consciência, 
+                                                        Respeito, 
+                                                        Qualidade
+                                                    </p>
                                                 </div></div>
                                         </div>
                                     </div>
@@ -79,6 +80,47 @@ Qualidade</p>
                         </div>
                         <div class="clear"></div>
                     </section>
+                    <section id="content-section-1">
+                        <div class="greennature-full-size-wrapper gdlr-show-all no-skin" style="padding-bottom: 0px;  background-color: #ffffff; ">
+                            <div id="quem_somos" class="greennature-master-slider-item greennature-slider-item greennature-item" style="margin-bottom: 0px;">
+                                <!-- MasterSlider -->
+                                <div id="P_slider_1" class="master-slider-parent ms-parent-id-1">
+
+                                    <!-- MasterSlider Main -->
+                                    <div id="slider_1" class="master-slider ms-skin-default">
+
+                                        <div class="ms-slide" data-delay="7"style="background: #90ba92;" data-fill-mode="fill">
+                                            <img src="plugins/masterslider/public/assets/css/blank.gif" alt="" title="" style="width: 100%;" />
+
+                                            <div class="ms-layer msp-cn-1-2" style="color:#ffff; font-size:24px; padding:10px; text-align:center;" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="425" data-delay="325" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-5" data-origin="ml" data-position="normal">
+                                            O Varejo responsável é uma startup que busca tornar práticas sustentáveis mais acessíveis aos pequenos varejistas.<br> Promovendo então desenvolvimento sustentável, comprometimento social e ambiental.</div>
+
+                                            <div class="ms-layer  msp-cn-1-3" style="" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="350" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-100" data-origin="ml" data-position="normal">
+                                                Varejo Responsável</div>
+
+                                        </div>
+                                    </div>
+                                    <!-- END MasterSlider Main -->
+
+                                </div>
+                                <section id="content-section-2">
+                        <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-brown-column-service" style="background-color: #2d2418;  border-top: 5px solid #3f3221; padding-top: 0px; padding-bottom: 0px; ">
+                            <div class="container">
+                                <h4 style="text-align: center;">Contato</h4>
+                                <form action="" class="contato" style="display: flex;flex-direction: column;align-items: center;" method="post">
+                                    <div class="dados" style="width: 80%; text-align:center; margin-bottom:20px">
+                                    <input type="text" placeholder="NOME">
+                                    <input type="text" placeholder="EMAIL">
+                                    </div>
+                                    <textarea name="" class="men" id="" cols="30" rows="10" placeholder="MENSAGEM"></textarea>
+                                    <button style="background: #90ba92;margin-top: 10px;width: 77px;height: 40px;margin-bottom: 50px;">Enviar</button>
+                                </form>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </section>
+
                     <section id="content-section-3">
                         <div class="greennature-parallax-wrapper greennature-background-image gdlr-show-all no-skin" id="greennature-parallax-wrapper-1" data-bgspeed="0.11" style="background:#dddddd;">
                             <div class="container">
