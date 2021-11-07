@@ -19,11 +19,11 @@
                                         <div class="ms-slide" data-delay="7"style="background: #90ba92;" data-fill-mode="fill">
                                             <img src="plugins/masterslider/public/assets/css/blank.gif" alt="" title="" style="width: 100%;" />
 
-                                            <div class="ms-layer msp-cn-1-2" style="color:#ffff; font-size:24px; padding:10px;" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="425" data-delay="325" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-5" data-origin="ml" data-position="normal">
+                                            <div class="ms-layer msp-cn-1-2" style="color:#ffff; font-size:24px; padding:10px; text-align:center;" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="425" data-delay="325" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-5" data-origin="ml" data-position="normal">
                                             O Varejo responsável é uma startup que busca tornar práticas sustentáveis mais acessíveis aos pequenos varejistas.<br> Promovendo então desenvolvimento sustentável, comprometimento social e ambiental.</div>
 
                                             <div class="ms-layer  msp-cn-1-3" style="" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="350" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-100" data-origin="ml" data-position="normal">
-                                                Quem somos</div>
+                                                Varejo Responsável</div>
 
                                         </div>
                                     </div>
@@ -32,15 +32,45 @@
                                 </div>
                                 <section id="content-section-2">
                         <div class="greennature-color-wrapper  gdlr-show-all greennature-skin-brown-column-service" style="background-color: #2d2418;  border-top: 5px solid #3f3221; padding-top: 0px; padding-bottom: 0px; ">
-                            <div id="vantagens" class="container" style="max-width:1140px;display:flex;flex-direction:row;justify-content: center;">
+                            <div class="container">
                                 <div class="four columns">
+                                    <div class="greennature-ux column-service-ux">
+                                        <div class="greennature-item greennature-column-service-item greennature-type-2" style="margin-bottom: 0px;">
+                                            <div class="column-service-image"><img src="upload/icon-service-1.png" alt="" width="80" height="80" /></div>
+                                            <div class="column-service-content-wrapper">
+                                                <h3 class="column-service-title">Nossa Missão</h3>
+                                                <div class="column-service-content greennature-skin-content">
+                                                    <p>Nossa Missão é tornar práticas sustentáveis acessíveis aos varejistas e assim criar impacto positivo no planeta e na vida das pessoas.</p>
+                                                </div></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="four columns">
+                                    <div class="greennature-ux column-service-ux">
+                                        <div class="greennature-item greennature-column-service-item greennature-type-2-bg" style="margin-bottom: 0px;background-color: #3f3221;">
+                                            <div class="column-service-image"><img src="upload/icon-service-2.png" alt="" width="80" height="80" /></div>
+                                            <div class="column-service-content-wrapper">
+                                                <h3 class="column-service-title">Nossa Visão</h3>
+                                                <div class="column-service-content greennature-skin-content">
+                                                    <p>Nossa Visão é ser o selo de sustentabilidade do varejo brasileiro, reconhecido mundialmente por facilitar a implementação dos ODS e o cumprimento do pacto global Agenda 2030.</p>
+                                                </div></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="valores" class="four columns">
                                     <div class="greennature-ux column-service-ux">
                                         <div class="greennature-item greennature-column-service-item greennature-type-2" style="margin-bottom: 0px;">
                                             <div class="column-service-image"><img src="upload/icon-service-3.png" alt="" width="80" height="80" /></div>
                                             <div class="column-service-content-wrapper">
-                                                <h3 class="column-service-title">Vantagens</h3>
+                                                <h3 class="column-service-title">Nossos Valores</h3>
                                                 <div class="column-service-content greennature-skin-content">
-                                                    <p>Os varejistas terão a oportunidade de implementar ações sustentáveis tendo foco nas ODS, trazendo então mais credibilidade e visibilidade no mercado.</p>
+                                                    <p>Nossos Valores são:<br> 
+Sustentabilidade, 
+Economicidade, 
+Consciência, 
+Respeito, 
+Qualidade</p>
+                                                </div></div>
                                         </div>
                                     </div>
                                 </div>

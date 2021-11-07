@@ -162,7 +162,7 @@
                         <nav class="greennature-navigation" id="greennature-main-navigation">
                             <ul id="menu-main-menu-1" class="sf-menu greennature-main-menu">
                                 <li class="menu-item menu-item-home current-menu-item greennature-normal-menu"><a href="#quem_somos"><i class="fa fa-users"></i>Quem Somos</a></li>
-                                <li class="menu-item menu-item-has-children greennature-normal-menu"><a href="#vantagens" class="sf-with-ul-pre"><i class="fa fa-check"></i>Vantagens</a></li>
+                                <li class="menu-item menu-item-has-children greennature-normal-menu"><a href="#valores" class="sf-with-ul-pre"><i class="fa fa-check"></i>Valores</a></li>
                                 <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children greennature-mega-menu"><a href="#empresas" class="sf-with-ul-pre"><i class="fa fa-building"></i>Empresas</a></li>
                             </ul>
                         </nav>

@@ -158,6 +158,8 @@
 .ms-overlay-layers .ms-layer {
     position:absolute;
     pointer-events: auto;
+	width: 100%;
+	text-align: center;
 }
 
 .ms-layer-mask {
