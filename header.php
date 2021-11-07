@@ -163,7 +163,7 @@
                             <ul id="menu-main-menu-1" class="sf-menu greennature-main-menu">
                                 <li class="menu-item menu-item-home current-menu-item greennature-normal-menu"><a href="#quem_somos"><i class="fa fa-users"></i>Quem Somos</a></li>
                                 <li class="menu-item menu-item-has-children greennature-normal-menu"><a href="#vantagens" class="sf-with-ul-pre"><i class="fa fa-check"></i>Vantagens</a></li>
-                                <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children greennature-mega-menu"><a href="#empresas" class="sf-with-ul-pre"><i class="fa fa-file"></i>Cadastro</a></li>
+                                <li class="menu-item menu-item-has-childrenmenu-item menu-item-has-children greennature-mega-menu"><a href="#empresas" class="sf-with-ul-pre"><i class="fa fa-building"></i>Empresas</a></li>
                             </ul>
                         </nav>
                         <div class="greennature-navigation-gimmick" id="greennature-navigation-gimmick"></div>

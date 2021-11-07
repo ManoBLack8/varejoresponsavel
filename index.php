@@ -16,7 +16,7 @@
                                     <!-- MasterSlider Main -->
                                     <div id="slider_1" class="master-slider ms-skin-default">
 
-                                        <div class="ms-slide" data-delay="7"style="background: #253526;" data-fill-mode="fill">
+                                        <div class="ms-slide" data-delay="7"style="background: #90ba92;" data-fill-mode="fill">
                                             <img src="plugins/masterslider/public/assets/css/blank.gif" alt="" title="" style="width: 100%;" />
 
                                             <div class="ms-layer msp-cn-1-2" style="color:#ffff; font-size:24px; padding:10px;" data-effect="t(true,150,n,n,n,n,n,n,n,n,n,n,n,n,n)" data-duration="425" data-delay="325" data-ease="easeOutQuint" data-offset-x="0" data-offset-y="-5" data-origin="ml" data-position="normal">
